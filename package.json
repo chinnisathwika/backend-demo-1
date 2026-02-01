@@ -1,0 +1,18 @@
+{
+  "name": "backend-demo-1",
+  "version": "1.0.0",
+  "description": "1.generate package.json\r       npm init -y //npm- node package manager\r 2.create HTTP server\r        a.install and import \"express\" module\r               npm install express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+
+}
